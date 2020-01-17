@@ -48,7 +48,7 @@ const CityWeatherView = props => {
     if (!currentWeather || forecasts.length === 0) {
         return (
             <div className={classes.loading}>
-                <CircularProgress className={classes.loading} />
+                <CircularProgress />
             </div>
         );
     }
