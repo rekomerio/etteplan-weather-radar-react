@@ -11,3 +11,7 @@ Front-end code assignment from Etteplan More
 -   Run `npm install` on the terminal while in the root folder
 -   Run `npm start` on the terminal to start the app
 -   You can also build the production version by running `npm run build --prod`
+
+## Final look
+
+![](https://raw.githubusercontent.com/rekomerio/etteplan-weather-radar-react/master/img/1.png)
